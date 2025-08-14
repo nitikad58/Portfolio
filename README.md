@@ -25,4 +25,4 @@ Here you'll find a collection of my projects spanning **Web Development** and **
 
 ## 📬 Contact
 📧 Email: nitikad58@gmail.com  
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/)  
+💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/)  
