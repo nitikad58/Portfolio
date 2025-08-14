@@ -12,9 +12,9 @@ Here you'll find a collection of my projects spanning **Web Development** and **
 
 ## 🌐 Web Development Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [](https://github.com/) | My  site  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| Project Repository | Live Demo | Overview | Tech Stack |
+|---------|-------------|------------| ------------|
+| [Kids-Coding](https://github.com/nitikad58/Coding-kids-WebApp)) | [Click](https://app.netlify.com/projects/kids-coding/overview) | Web application for an online coding education platform for kids, inspired by Coding Ninjas. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [](https://github.com/) | Online shop with cart & checkout features | ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | [](https://github.com/) | Forms | ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) |
 
