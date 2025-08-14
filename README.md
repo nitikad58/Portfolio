@@ -3,7 +3,6 @@
 Welcome to my GitHub portfolio!  
 Here you'll find a collection of my projects spanning **Web Development** and **Data Analytics/ Power BI**.
 
----
 
 ## 🌐 Web Development Projects
 
@@ -13,19 +12,13 @@ Here you'll find a collection of my projects spanning **Web Development** and **
 | [](https://github.com/) | Online shop with cart & checkout features | ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | [](https://github.com/) | Forms | ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) |
 
----
 
 ## 📊 Data Analytics / Power BI Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Adventure Works Sales Dashboard](https://github.com/nitikad58/Adventure-Works) | Interactive dashboard analysing revenue, budget variances, and product trends across regions and periods |
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft) |
+| [Adventure Works Sales Dashboard](https://github.com/nitikad58/Adventure-Works) | Interactive dashboard analysing revenue, budget variances, and product trends across regions and periods |![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft) |
 
-
-
----
 
 ## 📬 Contact
 📧 Email: nitikad58@gmail.com  
