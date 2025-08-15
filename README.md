@@ -1,7 +1,7 @@
 # My Project Portfolio
 
 Welcome to my GitHub portfolio!  
-Here you'll find a collection of my projects spanning **Web Development** and **Data Analytics/ Power BI**.
+Here you'll find a collection of my projects spanning **Data Analytics/ Power BI** and **Web Development**.
 
 ## 📊 Data Analytics / Power BI Projects
 
