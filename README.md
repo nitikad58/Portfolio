@@ -27,8 +27,9 @@ Here you'll find a collection of my projects spanning **Web Development** and **
 | [Mercados Signup/Signin Form](https://github.com/nitikad58/Mercados-task) | [ View ](https://mercadostask.netlify.app/) | A simple HTML form with login and Sign fetaures | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [PVR metals & Minerals](https://github.com/nitikad58/PVR-metals-minerals-sample-webapp) | [ View ](https://pvr-sample.netlify.app/) | A responsive Bootstrap-based product showcase page with image carousel, quantity selector, and interactive read-more feature for industrial product catalogs |![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [Health Tech Webapp](https://github.com/nitikad58/Health-Tech-Webapp) | [ View ](https://healthtech-sample.netlify.app/) | A responsive HealthTech web application featuring clinic service listings, essential links, and user authentication (Sign-In/Sign-Up) pages |![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [Marketo form ]() | [ N/A | | ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) |
+| [Marketo form ]() | N/A | | ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) |
 
-# 📬 Contact
+# 📨 Contact
 📧 Email: nitikad58@gmail.com  
-💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/)  
+💼(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/)  
+
