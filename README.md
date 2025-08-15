@@ -31,5 +31,5 @@ Here you'll find a collection of my projects spanning **Web Development** and **
 
 # 📨 Contact
 📧 Email: nitikad58@gmail.com  
-💼(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/)  
+💼[](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nitika-dhiman-8291ab160/)  
 
