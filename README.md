@@ -7,7 +7,7 @@ Here you'll find a collection of my projects spanning **Data Analytics/ Power BI
 
 | Project Repository | Overview | Tech Stack |
 |---------|-------------|-------|
-| 📂 <a href="https://github.com/nitikad58/Adventure-Works" target="_blank">Adventure Works</a> | Interactive dashboard analysing revenue, budget variances, and product trends across regions and periods |![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft) |
+| [Adventure Works](https://github.com/nitikad58/Adventure-Works)| Interactive dashboard analysing revenue, budget variances, and product trends across regions and periods |![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft) |
 
 
 ## 🌐 Web Development Projects
