@@ -36,7 +36,7 @@ Here you'll find a collection of my projects spanning **Data Analytics/ Power BI
 ---
 
 # 📨 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]: https://www.linkedin.com/in/nitika-dhiman-8291ab160/
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white): https://www.linkedin.com/in/nitika-dhiman-8291ab160/
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nitikad58@gmail.com) : nitikad58@gmail.com  
 
