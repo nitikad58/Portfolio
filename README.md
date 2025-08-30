@@ -10,6 +10,7 @@ Here you'll find a collection of my projects spanning **Data Analytics/ Power BI
 | Project Repository | Overview | Tech Stack |
 |---------|-------------|-------|
 | [Adventure Works](https://github.com/nitikad58/Adventure-Works)| Interactive dashboard analysing revenue, budget variances, and product trends across regions and periods |![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft) |
+| [HR Analytics: Employee Attrition](https://github.com/nitikad58/HR-analytics-Dashboard)| An interactive Power BI dashboard analyzing employee attrition patterns, demographic trends, and key workforce metrics |![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blue?logo=microsoft) |
 
 ---
 
